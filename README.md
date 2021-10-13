@@ -1,4 +1,4 @@
-E2141. OSS project Finklestein: Instructors & Institutions [E1971]
+E2141. OSS project Finklestein: Instructors & Institutions
 Team_: kgao2
 
 Mentor: Kai (yxiao28@ncsu.edu)
